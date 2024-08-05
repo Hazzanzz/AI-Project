@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "venv/bin/python",  // Update the path according to your virtual environment
+    "python.analysis.extraPaths": [
+        "./venv/lib/python3.x/site-packages"  // Update the path according to your virtual environment
+    ]
+}

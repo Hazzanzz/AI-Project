@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sketch to Portrait</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Sketch to Portrait</h1>
+        <form id="upload-form">
+            <label for="sketch-upload">Upload your sketch:</label>
+            <input type="file" id="sketch-upload" accept="image/*" required>
+            <button type="submit">Upload</button>
+        </form>
+        <div id="result">
+            <h2>Generated Portrait</h2>
+            <img id="portrait" src="" alt="Generated Portrait">
+        </div>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>
