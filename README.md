@@ -145,5 +145,3 @@ Feel free to adjust any part of this summary to better fit your project's specif
 For any inquiries or issues, please contact us at [contact@yourdomain.com](mailto:hasszahra2020@gmail.com).
 
 ---
-
-Feel free to modify this summary as needed to better fit your project's specifics.
