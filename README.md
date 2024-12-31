@@ -1,4 +1,4 @@
-Certainly! Here's a more detailed write-up for your GitHub project:
+
 
 ---
 
